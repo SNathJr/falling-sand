@@ -97,20 +97,20 @@ To clean the build directory before building, use the `clean` argument:
 
 We will be using Dracula Color Palette. You can find more info here [Dracula Contributions](https://draculatheme.com/contribute).
 
-| Palette        | Copy                | Color                              |
-|----------------|---------------------|------------------------------------|
-| Background     | `RGB(40, 42, 54)`   | <div style="width: 20px; height: 20px; background-color: rgb(40, 42, 54);"></div>   |
-| Current Line   | `RGB(68, 71, 90)`   | <div style="width: 20px; height: 20px; background-color: rgb(68, 71, 90);"></div>   |
-| Foreground     | `RGB(248, 248, 242)`| <div style="width: 20px; height: 20px; background-color: rgb(248, 248, 242);"></div> |
-| Comment        | `RGB(98, 114, 164)` | <div style="width: 20px; height: 20px; background-color: rgb(98, 114, 164);"></div>  |
-| Cyan           | `RGB(139, 233, 253)`| <div style="width: 20px; height: 20px; background-color: rgb(139, 233, 253);"></div> |
-| Green          | `RGB(80, 250, 123)` | <div style="width: 20px; height: 20px; background-color: rgb(80, 250, 123);"></div>  |
-| Orange         | `RGB(255, 184, 108)`| <div style="width: 20px; height: 20px; background-color: rgb(255, 184, 108);"></div> |
-| Pink           | `RGB(255, 121, 198)`| <div style="width: 20px; height: 20px; background-color: rgb(255, 121, 198);"></div> |
-| Purple         | `RGB(189, 147, 249)`| <div style="width: 20px; height: 20px; background-color: rgb(189, 147, 249);"></div> |
-| Red            | `RGB(255, 85, 85)`  | <div style="width: 20px; height: 20px; background-color: rgb(255, 85, 85);"></div>   |
-| Yellow         | `RGB(241, 250, 140)`| <div style="width: 20px; height: 20px; background-color: rgb(241, 250, 140);"></div> |
-
+| Palette      | Hex       | RGB           | HSL             | ![Color Picker Boxes](https://draculatheme.com/images/color-boxes/eyedropper.png)   |
+| ------------ | --------- | ------------- | --------------- | ----------------------------------------------------------------------------------- |
+| Background   | `#282a36` | `40 42 54`    | `231° 15% 18%`  | ![Background Color](https://draculatheme.com/images/color-boxes/background.png)     |
+| Current Line | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Current Line Color](https://draculatheme.com/images/color-boxes/current_line.png) |
+| Selection    | `#44475a` | `68 71 90`    | `232° 14% 31%`  | ![Selection Color](https://draculatheme.com/images/color-boxes/selection.png)       |
+| Foreground   | `#f8f8f2` | `248 248 242` | `60° 30% 96%`   | ![Foreground Color](https://draculatheme.com/images/color-boxes/foreground.png)     |
+| Comment      | `#6272a4` | `98 114 164`  | `225° 27% 51%`  | ![Comment Color](https://draculatheme.com/images/color-boxes/comment.png)           |
+| Cyan         | `#8be9fd` | `139 233 253` | `191° 97% 77%`  | ![Cyan Color](https://draculatheme.com/images/color-boxes/cyan.png)                 |
+| Green        | `#50fa7b` | `80 250 123`  | `135° 94% 65%`  | ![Green Color](https://draculatheme.com/images/color-boxes/green.png)               |
+| Orange       | `#ffb86c` | `255 184 108` | `31° 100% 71%`  | ![Orange Color](https://draculatheme.com/images/color-boxes/orange.png)             |
+| Pink         | `#ff79c6` | `255 121 198` | `326° 100% 74%` | ![Pink Color](https://draculatheme.com/images/color-boxes/pink.png)                 |
+| Purple       | `#bd93f9` | `189 147 249` | `265° 89% 78%`  | ![Purple Color](https://draculatheme.com/images/color-boxes/purple.png)             |
+| Red          | `#ff5555` | `255 85 85`   | `0° 100% 67%`   | ![Red Color](https://draculatheme.com/images/color-boxes/red.png)                   |
+| Yellow       | `#f1fa8c` | `241 250 140` | `65° 92% 76%`   | ![Yellow Color](https://draculatheme.com/images/color-boxes/yellow.png)             |
 
 ## Project Structure
 
