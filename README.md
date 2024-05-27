@@ -91,6 +91,27 @@ To clean the build directory before building, use the `clean` argument:
 ./build.sh clean native
 ```
 
+## References
+
+### Color Palette
+
+We will be using Dracula Color Palette. You can find more info here [Dracula Contributions](https://draculatheme.com/contribute).
+
+| Palette        | Copy                | Color                              |
+|----------------|---------------------|------------------------------------|
+| Background     | `RGB(40, 42, 54)`   | <div style="width: 20px; height: 20px; background-color: rgb(40, 42, 54);"></div>   |
+| Current Line   | `RGB(68, 71, 90)`   | <div style="width: 20px; height: 20px; background-color: rgb(68, 71, 90);"></div>   |
+| Foreground     | `RGB(248, 248, 242)`| <div style="width: 20px; height: 20px; background-color: rgb(248, 248, 242);"></div> |
+| Comment        | `RGB(98, 114, 164)` | <div style="width: 20px; height: 20px; background-color: rgb(98, 114, 164);"></div>  |
+| Cyan           | `RGB(139, 233, 253)`| <div style="width: 20px; height: 20px; background-color: rgb(139, 233, 253);"></div> |
+| Green          | `RGB(80, 250, 123)` | <div style="width: 20px; height: 20px; background-color: rgb(80, 250, 123);"></div>  |
+| Orange         | `RGB(255, 184, 108)`| <div style="width: 20px; height: 20px; background-color: rgb(255, 184, 108);"></div> |
+| Pink           | `RGB(255, 121, 198)`| <div style="width: 20px; height: 20px; background-color: rgb(255, 121, 198);"></div> |
+| Purple         | `RGB(189, 147, 249)`| <div style="width: 20px; height: 20px; background-color: rgb(189, 147, 249);"></div> |
+| Red            | `RGB(255, 85, 85)`  | <div style="width: 20px; height: 20px; background-color: rgb(255, 85, 85);"></div>   |
+| Yellow         | `RGB(241, 250, 140)`| <div style="width: 20px; height: 20px; background-color: rgb(241, 250, 140);"></div> |
+
+
 ## Project Structure
 
 ```
